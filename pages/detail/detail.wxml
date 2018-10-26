@@ -7,7 +7,7 @@
 </swiper>
 <!--商品价格和商品描述-->
 <view>
-<view class="product-name-wrap">
+  <view class="product-name-wrap">
     {{goods.title}}
   </view>
   <view class="product-price-wrap">
